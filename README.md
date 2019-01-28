@@ -1,2 +1,2 @@
 # Uno-Game
-One assignment in python programming course
+An assignment that I did in python course.
